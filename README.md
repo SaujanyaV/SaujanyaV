@@ -52,5 +52,3 @@ I'm a results-driven software engineer passionate about building AI-powered tool
 - [Twitter](https://www.x.com/SaujanyaVerma)
 
 ---
-
-[![Spotify](https://novatorem.saujanyav.vercel.app/api/spotify)](https://open.spotify.com/user/saujanya)
