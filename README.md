@@ -14,7 +14,7 @@ I'm a results-driven software engineer passionate about building AI-powered tool
 
 ### 💼 Experience
 
-- **SDE - GenAI Developer @ Trianz Holdings Pvt. Ltd. (Aug 2023 - Present)**  
+- **SDE @ Trianz Holdings Pvt. Ltd. (Aug 2023 - Present)**  
   Developed LangChain-based AI agents, worked on prompt engineering for optimized LLM output, and designed chat interfaces for CosmosDB VM alerts and document querying.
   
 - **Frontend Developer Trainee @ Trianz Consulting Pvt. Ltd. (Feb 2023 - June 2023)**  
