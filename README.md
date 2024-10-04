@@ -6,6 +6,9 @@ My Latest Shenanigans 🔥
 - Experimenting with decentralized finance 💲💲💲. (Losing money faster than light!).
 - Writing code that doesn’t break everything 📈. (I'm trying).
 
+Take a look at my Portfolio page: 
+<a href="https://saujanyav.vercel.app/" target="_blank" rel="noreferrer">Some Cool Effects</a>
+
 ### 🛠️ Skills
 
 #### **Languages**
